@@ -34,13 +34,13 @@ MonoBehaviour:
   active: 1
   distance:
     m_OverrideState: 1
-    m_Value: 11
+    m_Value: 8
   baseHeight:
     m_OverrideState: 1
-    m_Value: -122.2
+    m_Value: -120.12
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 50
+    m_Value: 51.8
   enableGround:
     m_OverrideState: 1
     m_Value: 1
